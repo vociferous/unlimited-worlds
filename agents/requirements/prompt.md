@@ -6,7 +6,7 @@ Load the base context from `../configs/agent-personas.md` first, then load the A
 
 | Date | Batch | Source Sessions | REQs Produced | File |
 |------|-------|-----------------|---------------|------|
-| — | — | No sessions yet | — | — |
+| 2026-06-02 | batch-001-gdd-v0.1 | World Architect S001, Mechanic Designer S001, GDD-v0.1 | 14 (REQ-001–REQ-014) | `sessions/2026-06-02-batch-001-gdd-v0.1.md` |
 
 ## How to Trigger a Session
 

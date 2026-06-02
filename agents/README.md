@@ -9,6 +9,7 @@ agents/
 ├── brainstorming/    # Ideation agents — world, lore, mechanics
 ├── design/           # Document drafting agents — GDDs, specs, balance
 ├── development/      # Code and architecture agents — reviews, generation
+├── requirements/     # Design requirements agent — bridges GDD to visual design
 └── configs/          # Shared system prompts and agent personas
 ```
 
@@ -22,6 +23,7 @@ agents/
 | AGT-004 | System Designer | Creates balance models and system interaction specs | design/ |
 | AGT-005 | Tech Architect | Evaluates and documents technical architecture decisions | development/ |
 | AGT-006 | Code Reviewer | Reviews source code for correctness and standards | development/ |
+| AGT-007 | Design Requirements Analyst | Reads planning session outputs; produces structured REQ-XXX design requirements with self-contained claude.ai artifact prompts | requirements/ |
 
 ## How to Use
 
